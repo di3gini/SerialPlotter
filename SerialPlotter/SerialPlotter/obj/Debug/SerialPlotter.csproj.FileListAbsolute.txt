@@ -1,0 +1,10 @@
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\bin\Debug\SerialPlotter.exe.config
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\bin\Debug\SerialPlotter.exe
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\bin\Debug\SerialPlotter.pdb
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.csprojAssemblyReference.cache
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.Form1.resources
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.Properties.Resources.resources
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.csproj.GenerateResource.cache
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.csproj.CoreCompileInputs.cache
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.exe
+C:\Users\di3go\OneDrive\Documentos\GitHub\SerialPlotter\SerialPlotter\SerialPlotter\obj\Debug\SerialPlotter.pdb
